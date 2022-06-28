@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm krnl.dll
+
+wget https://k-storage.com/bootstrapper/files/krnl.dll

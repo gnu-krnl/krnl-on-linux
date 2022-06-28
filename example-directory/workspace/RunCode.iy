@@ -1,0 +1,22 @@
+return {
+    ["PluginName"]="runcode",
+    ["PluginDescription"]="runs code i guess???",
+    ["Commands"]={
+        ["loadcode"]={
+            ["ListName"]="loadcode [CODE]",
+            ["Description"]="Read the GODDAMN NAME OF THE COMMAND",
+            ["Aliases"]={"runcode", "runlua", "loadlua"},
+            ["Function"]=function(args, speaker)
+                loadstring(getstring(1))()
+            end
+        },
+        ["loadfile"]={
+            ["ListName"]="loadfile [FILE]",
+            ["Description"]="loads code from a file, just add the file you want to workspace and do loadfile [INSERT_FILE_NAME]",
+            ["Aliases"]={"runfile", "runluafile", "loadluafile"},
+            ["Function"]=function(args, speaker)
+                loadfile(getstring(1))()
+            end
+        }
+    }
+}
