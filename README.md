@@ -18,12 +18,11 @@ Install wget for getting files or use curl
 Follow this [guide by grapejuice](https://brinkervii.gitlab.io/grapejuice/docs/Guides/Installing-Graphics-Libraries.html) to install the necessary graphics drivers
 
 
+#### Installing DXVK
+This method only works for DXVK so that's what we're gonna use 
+Enable DXVK by setting DX11 as your Roblox renderer in grapejuice and enable the "Use DXVK D3D implementation" 
+You should be good after that 
 
-```
-mkdir ~/krnl && cd ~/krnl && wget https://k-storage.com/bootstrapper/files/krnl.dll && mkdir autoexec && echo "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()" > autoexec/iy.lua
-```
-
-#### Installing
 
 #### Installing C++ libs
 Gonna continue this tomorrow
