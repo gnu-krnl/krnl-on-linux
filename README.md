@@ -48,3 +48,7 @@ Now open taskmanager which can be found in Wine Apps > Task Manager, then click 
 ##### Enabling the file loader plugin and using it
 This is a one time thing to enable it unless you delete your IY config, run this `addplugin RunCode` in IY on Roblox 
 Now if you want to execute scripts, put them in the workspace directory then `loadfile script.lua` in infinite yield
+
+
+#### Extras
+If you think your doing it wrong check out this [example](https://github.com/gnu-krnl/krnl-on-linux/tree/main/example-directory)
