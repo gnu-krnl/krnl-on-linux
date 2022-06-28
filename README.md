@@ -43,7 +43,7 @@ Allow me to explain what the script above does, first it makes a KRNL directory,
 After you've setup the KRNL dir, you need to get the extreme injector exe which can be found here 
 https://github.com/gnu-krnl/krnl-on-linux/blob/main/files/Extreme%20Injector%20v3.exe?raw=true
 Above is a download for the exe, if you think it's malware here's the [Extreme Injector github repo](https://github.com/master131/ExtremeInjector) so you can get the exe 
-###### Finally actually running KRNL 
+##### Finally actually running KRNL 
 Now open taskmanager which can be found in Wine Apps > Task Manager, then click file on top right and run extreme injector, then inject krnl.dll into Roblox which should be straight forward and you're still not done 
 ##### Enabling the file loader plugin and using it
 This is a one time thing to enable it unless you delete your IY config, run this `addplugin RunCode` in IY on Roblox 
