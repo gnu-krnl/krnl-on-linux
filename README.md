@@ -26,7 +26,7 @@ Enable DXVK by setting DX11 as your Roblox renderer in grapejuice and enable the
 #### Installing C++ libs
 In grapejuice open winetricks by pressing the "Wine Apps" button then press "Winetricks"
 Select default wineprefix > Install windows dll > Find and enable both "dotnet48" and "vcrun2019" and click ok 
-If al goes well and it's installing you should see a few GUIs, this can take up to 10 minutes so be patient and if you don't fuck something up you're good
+If all goes well and it's installing you should see a few GUIs, this can take up to 10 minutes so be patient and if you don't fuck something up you're good
 
 
 #### Setting up KRNL directory
