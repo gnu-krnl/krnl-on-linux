@@ -1,4 +1,4 @@
-## This is a tutorial on how to use KRNL on Linux 
+## This is a tutorial on how to manually install KRNL on Linux 
 ## Some disclaimers is that there is no GUI, dev said he will be working on a GTK version
 
 
