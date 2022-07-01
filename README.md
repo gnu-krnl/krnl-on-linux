@@ -7,7 +7,7 @@ These commands will be for Arch, if you're on Ubuntu figure it out
 
 Install wine `sudo pacman -S --needed wine winetricks zenity` 
 
-Make sure you've already installed [grapejuice](https://brinkervii.gitlab.io/grapejuice/docs) and atleast runned it once
+Make sure you've already installed [grapejuice](https://brinkervii.gitlab.io/grapejuice/docs) and atleast runned `grapejuice gui` and roblox once
 
 You can install it using the source which should be just running `sudo pacman -S --needed libpulse lib32-libpulse gnutls lib32-gnutls git python-pip python cairo gtk3 gobject-introspection desktop-file-utils xdg-utils xdg-user-dirs gtk-update-icon-cache shared-mime-info mesa-utils && git clone --depth=1 https://gitlab.com/brinkervii/grapejuice.git /tmp/grapejuice && cd /tmp/grapejuice && ./install.py`
 
