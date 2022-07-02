@@ -5,7 +5,7 @@
 #### Installing dependencies and grapejuice
 These commands will be for Arch, if you're on Ubuntu figure it out 
 
-Install wine `sudo pacman -S --needed wine winetricks zenity` 
+Install winetricks `sudo pacman -S --needed winetricks zenity` 
 
 Make sure you've already installed [grapejuice](https://brinkervii.gitlab.io/grapejuice/docs) and atleast runned `grapejuice gui` and roblox once
 
