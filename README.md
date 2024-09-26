@@ -1,6 +1,7 @@
 ## This is a tutorial on how to manually install KRNL on Linux 
 ## Some disclaimers is that there is no GUI, dev said he will be working on a GTK version
 
+# NO LONGER WORKS
 
 #### Installing dependencies and grapejuice
 These commands will be for Arch, if you're on Ubuntu figure it out 
